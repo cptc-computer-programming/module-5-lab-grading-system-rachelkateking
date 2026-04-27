@@ -1,6 +1,6 @@
 # grading_system.py
 # Simple Grading System
-
+# This file takes a student's assignment information and assigns them a letter grade
 
 # ------------------------------------------------------------
 # Step 1: Get starting information
