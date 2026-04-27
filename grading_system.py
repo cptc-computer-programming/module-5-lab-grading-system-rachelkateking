@@ -147,7 +147,7 @@ else:
 # Step 8: Challenge — combine conditions
 # ------------------------------------------------------------
 
-# TODO 7:
+#  7:
 # Create a boolean variable called needs_review.
 #
 # needs_review should be True if:
